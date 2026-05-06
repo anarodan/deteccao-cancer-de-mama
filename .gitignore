@@ -7,6 +7,8 @@ dataset/
 *.h5
 *.pt
 *.pth
-*.zip
 *.keras
+*.zip
+resultados/
+backup_resultados_efficientnet_tcc.zip
 *.txt

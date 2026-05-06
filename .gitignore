@@ -8,3 +8,5 @@ dataset/
 *.pt
 *.pth
 *.zip
+*.keras
+*.txt
